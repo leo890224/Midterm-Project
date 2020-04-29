@@ -171,7 +171,7 @@ nav a:hover{
     position: absolute;
     bottom: 0%;
     right: 0%;
-    min-width: 20%;
+    min-width: 30%;
     max-width: 1500px;
     height: 100%;
     background: rgb(114, 0, 0);
